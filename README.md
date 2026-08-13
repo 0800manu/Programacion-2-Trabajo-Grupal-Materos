@@ -9,7 +9,7 @@ Disfruto organizar mis viajes, aprender sobre nuevas tecnologías y descubrir c�
 
 <img width="107" height="118" alt="IMG_1046" src="https://github.com/user-attachments/assets/d7bb3053-f2db-4392-95aa-f637346de444" />
 
-Soy estudiante de la licenciatura en sistemas. Mi objetivo de la materia es ampliar mi conocimiento en Java. Y en general, seguir formándome, sumando experiencia práctica a través de una pasantía. 
+Hola! soy Camila, estudiante de la licenciatura en sistemas. Mi objetivo de la materia es ampliar mi conocimiento en Java. Y en general, seguir formándome, sumando experiencia práctica a través de una pasantía. 
 Tengo conocimiento en:
 - HTML y CSS
 - Python

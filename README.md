@@ -1,6 +1,7 @@
 # PRESENTACION DE INTEGRANTES
 
 <img width="107" height="118" alt="Captura de pantalla 2026-06-22 131611" src="https://github.com/user-attachments/assets/8dbf4e5f-0902-4ded-baa9-d5905fc98735" />
+
 ¡Hola! Soy Agustina. 
 Soy estudiante de Ingenieria informatica.
 En esta materia me gustaría profundizar mis conocimientos sobre programación, comprender mejor los conceptos de Java y aprender a aplicarlos para resolver problemas relacionados con situaciones de la vida laboral y cotidiana.

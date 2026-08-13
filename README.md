@@ -33,7 +33,9 @@ LinkedIn: Emanuel Paoloni
 Mail: emanuelcr04@gmail.com
 <img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/eeabaa5f-4fdc-4d04-97b1-c2349f553c41" />
 
+
 <img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/104f1831-07b6-46b1-9235-1590f205d6cd" />
+
 
 Soy Estudiante de la UADE, Ando cursando la Tecnicatura en Desarrollo de Software, Tengo experiencia en  HTML, CSS, Python, Java, Jsx , React y SQL.
 

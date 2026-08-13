@@ -34,6 +34,12 @@ Mail: emanuelcr04@gmail.com
 
 <img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/104f1831-07b6-46b1-9235-1590f205d6cd" />
 
+Soy Estudiante de la UADE, Ando cursando la Tecnicatura en Desarrollo de Software, Tengo experiencia en  HTML, CSS, Python, Java, Jsx , React y SQL.
+
+En este momento mi foco principal es arrancar mi Carrera Profesional dentro del Area de Sistemas ya sea desarrollando fronts, backs o cualquier rubro dentro de IT.
+
+Mi hobby principal es jugar juegos como el CS2, World of Warcraft, ver Futbol y ir al Gimnasio.
+
 
 
 

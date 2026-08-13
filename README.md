@@ -5,12 +5,12 @@
 <img width="107" height="118" alt="IMG_1046" src="https://github.com/user-attachments/assets/d7bb3053-f2db-4392-95aa-f637346de444" />
 
 Soy estudiante de la licenciatura en sistemas. Mi objetivo de la materia es ampliar mi conocimiento en Java. Y en general, seguir formándome, sumando experiencia práctica a través de una pasantía. 
-Conocimiento en:
+------Tengo conocimiento en:
 - HTML y CSS
 - Python
 - C ++
-Gustos: Me gusta el deporte, el coaching, la música.
-Expectativa: Me gustaría que la materia me ayude a conectar la teoría con proyectos reales.
+------Gustos: Me gusta el deporte, el coaching, la música.
+------Expectativa: Me gustaría que la materia me ayude a conectar la teoría con proyectos reales.
 
 <img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/ef70399a-149e-4745-a311-47fa0c300e1b" />
 Soy estudiante del área de Sistemas e Informática, interesado principalmente en hardware, infraestructura y desarrollo.

@@ -29,6 +29,7 @@ Conocimiento en:- Python
 - Hardware y armado de PCs
 - Redes y conceptos de infraestructura
 En este perfil voy publicando proyectos realizados durante mi formación académica y proyectos personales relacionados con programación, sistemas e informática.
+
 <img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/eeabaa5f-4fdc-4d04-97b1-c2349f553c41" />
 
 

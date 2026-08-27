@@ -66,7 +66,7 @@ Mi hobby principal es jugar juegos como el CS2, World of Warcraft, ver Futbol y 
 
 📅 Fecha: 27/08
 💻 Actividad: Actividad de clase Pilas, colas y colas con prioridad.
-✅ Entrega: -
+✅ Entrega: 27/08
 
 
 

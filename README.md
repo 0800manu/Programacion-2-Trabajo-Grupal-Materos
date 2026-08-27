@@ -30,7 +30,13 @@ Conocimiento en:- Python
 - Redes y conceptos de infraestructura
 En este perfil voy publicando proyectos realizados durante mi formación académica y proyectos personales relacionados con programación, sistemas e informática.
 
-<img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/eeabaa5f-4fdc-4d04-97b1-c2349f553c41" />
+<img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/7c137e33-6335-4a49-b1ef-9b27bfdd7251" />
+
+
+Soy Nahuel, estudiante de la Licenciatura en informática. En esta materia me gustaría seguir aprendiendo sobre programación, especialmente Java.
+Me interesa adquirir conocimientos que pueda aplicar tanto en proyectos académicos como en situaciones de la vida real. También me gusta aprender sobre tecnología, deportes y conocer lugares nuevos.
+Me gusta el fútbol, viajar y la tecnología
+
 
 
 <img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/104f1831-07b6-46b1-9235-1590f205d6cd" />
@@ -42,6 +48,22 @@ En este momento mi foco principal es arrancar mi Carrera Profesional dentro del 
 
 Mi hobby principal es jugar juegos como el CS2, World of Warcraft, ver Futbol y ir al Gimnasio.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📅 Fecha: 06/08
+💻 Actividad: Introduccion a Java y creacion del README.
+
+📅 Fecha: 13/08
+💻 Actividad: Actividad integradora de POO - Cuenta Bancaria
+✅ Entrega: 15/08
+
+📅 Fecha: 20/08
+💻 Actividad: Actividad de clase TDA - Pilas y colas 
+✅ Entrega: -
+
+📅 Fecha: 27/08
+💻 Actividad: Actividad de clase Pilas, colas y colas con prioridad.
+✅ Entrega: -
 
 
 

@@ -18,6 +18,8 @@ Gustos: Me gusta el deporte, el coaching, la música.
 Expectativa: Me gustaría que la materia me ayude a conectar la teoría con proyectos reales.
 
 <img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/ef70399a-149e-4745-a311-47fa0c300e1b" />
+
+
 Soy estudiante del área de Sistemas e Informática, interesado principalmente en hardware, infraestructura y desarrollo.
 Actualmente sigo formándome y desarrollando proyectos académicos y personales para mejorar mis conocimientos y adquirir experiencia en el área IT.
 Conocimiento en:- Python
@@ -29,6 +31,7 @@ Conocimiento en:- Python
 - Hardware y armado de PCs
 - Redes y conceptos de infraestructura
 En este perfil voy publicando proyectos realizados durante mi formación académica y proyectos personales relacionados con programación, sistemas e informática.
+
 
 <img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/7c137e33-6335-4a49-b1ef-9b27bfdd7251" />
 

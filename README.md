@@ -1,0 +1,72 @@
+# PRESENTACION DE INTEGRANTES
+
+<img width="107" height="118" alt="Captura de pantalla 2026-06-22 131611" src="https://github.com/user-attachments/assets/8dbf4e5f-0902-4ded-baa9-d5905fc98735" />
+
+¡Hola! Soy Agustina. 
+Soy estudiante de Ingenieria informatica.
+En esta materia me gustaría profundizar mis conocimientos sobre programación, comprender mejor los conceptos de Java y aprender a aplicarlos para resolver problemas relacionados con situaciones de la vida laboral y cotidiana.
+Disfruto organizar mis viajes, aprender sobre nuevas tecnologías y descubrir cómo estas pueden ayudarnos a innovar y transformar ideas en proyectos reales.
+
+<img width="107" height="118" alt="IMG_1046" src="https://github.com/user-attachments/assets/d7bb3053-f2db-4392-95aa-f637346de444" />
+
+Hola! soy Camila, estudiante de la licenciatura en sistemas. Mi objetivo de la materia es ampliar mi conocimiento en Java. Y en general, seguir formándome, sumando experiencia práctica a través de una pasantía. 
+Tengo conocimiento en:
+- HTML y CSS
+- Python
+- C ++
+Gustos: Me gusta el deporte, el coaching, la música.
+Expectativa: Me gustaría que la materia me ayude a conectar la teoría con proyectos reales.
+
+<img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/ef70399a-149e-4745-a311-47fa0c300e1b" />
+
+
+Soy estudiante del área de Sistemas e Informática, interesado principalmente en hardware, infraestructura y desarrollo.
+Actualmente sigo formándome y desarrollando proyectos académicos y personales para mejorar mis conocimientos y adquirir experiencia en el área IT.
+Conocimiento en:- Python
+- Java
+- Git
+- GitHub
+- Linux
+- Visual Studio Code
+- Hardware y armado de PCs
+- Redes y conceptos de infraestructura
+En este perfil voy publicando proyectos realizados durante mi formación académica y proyectos personales relacionados con programación, sistemas e informática.
+
+
+<img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/7c137e33-6335-4a49-b1ef-9b27bfdd7251" />
+
+
+Soy Nahuel, estudiante de la Licenciatura en informática. En esta materia me gustaría seguir aprendiendo sobre programación, especialmente Java.
+Me interesa adquirir conocimientos que pueda aplicar tanto en proyectos académicos como en situaciones de la vida real. También me gusta aprender sobre tecnología, deportes y conocer lugares nuevos.
+Me gusta el fútbol, viajar y la tecnología
+
+
+
+<img width="107" height="118" alt="image" src="https://github.com/user-attachments/assets/104f1831-07b6-46b1-9235-1590f205d6cd" />
+
+
+Soy Estudiante de la UADE, Ando cursando la Tecnicatura en Desarrollo de Software, Tengo experiencia en  HTML, CSS, Python, Java, Jsx , React y SQL.
+
+En este momento mi foco principal es arrancar mi Carrera Profesional dentro del Area de Sistemas ya sea desarrollando fronts, backs o cualquier rubro dentro de IT.
+
+Mi hobby principal es jugar juegos como el CS2, World of Warcraft, ver Futbol y ir al Gimnasio.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📅 Fecha: 06/08
+💻 Actividad: Introduccion a Java y creacion del README.
+
+📅 Fecha: 13/08
+💻 Actividad: Actividad integradora de POO - Cuenta Bancaria
+✅ Entrega: 15/08
+
+📅 Fecha: 20/08
+💻 Actividad: Actividad de clase TDA - Pilas y colas 
+✅ Entrega: -
+
+📅 Fecha: 27/08
+💻 Actividad: Actividad de clase Pilas, colas y colas con prioridad.
+✅ Entrega: 27/08
+
+
+

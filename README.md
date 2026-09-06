@@ -68,5 +68,7 @@ Mi hobby principal es jugar juegos como el CS2, World of Warcraft, ver Futbol y 
 💻 Actividad: Actividad de clase Pilas, colas y colas con prioridad.
 ✅ Entrega: 27/08
 
-
+📅 Fecha: 03/09
+💻 Actividad: Actividad de Conjuntos estaticos, diccionarios simples.
+✅ Entrega: 06/09 Entrega de ejercicio de conjuntos. 
 

@@ -72,3 +72,6 @@ Mi hobby principal es jugar juegos como el CS2, World of Warcraft, ver Futbol y 
 💻 Actividad: Actividad de Conjuntos estaticos, diccionarios simples.
 ✅ Entrega: 06/09 Entrega de ejercicio de conjuntos. 
 
+📅 Fecha: 01/10
+💻 Actividad: Actividad introductoria: complejidad temporal y espacial.
+✅ Entrega: 01/10 Entrega de Actividad introductoria: complejidad temporal y espacial. 

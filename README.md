@@ -75,3 +75,9 @@ Mi hobby principal es jugar juegos como el CS2, World of Warcraft, ver Futbol y 
 📅 Fecha: 01/10
 💻 Actividad: Actividad introductoria: complejidad temporal y espacial.
 ✅ Entrega: 01/10 Entrega de Actividad introductoria: complejidad temporal y espacial. 
+
+📅 Fecha: 15/10
+💻 Actividad: Actividad de árboles AVL
+✅ Entrega: 15/10 Entrega de Actividad árboles AVL
+
+
